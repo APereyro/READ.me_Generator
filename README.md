@@ -21,11 +21,13 @@ This project is a command-line application that generates a professional README.
 
 ## Installation
 
-Before running the application, the user should create a .gitignore file that includes node_modules
+Before running the application, the user should create a .gitignore file that includes node_modules and also run the following command in the terminal: npm i 
 
 ## Usage
 
 To run the application, the user can type the following command in the terminal: node index.js
+
+
 
 ## Credits
 
