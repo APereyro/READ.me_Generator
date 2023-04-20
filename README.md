@@ -21,7 +21,7 @@ This project is a command-line application that generates a professional README.
 
 ## Installation
 
-Before running the application, the user should create a .gitignore file that includes node_modules.
+Before pulling the application, the user should create a .gitignore file that includes node_modules.
 
 ## Usage
 
