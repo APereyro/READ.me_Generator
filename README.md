@@ -27,7 +27,11 @@ Before running the application, the user should create a .gitignore file that in
 
 To run the application, the user can type the following command in the terminal: node index.js
 
+![Screenshot (42)](https://user-images.githubusercontent.com/124737955/233502322-a649dcf1-63ea-4128-bc7a-d2ce19317569.png)
 
+![Screenshot (43)](https://user-images.githubusercontent.com/124737955/233502335-65c4c2ce-9682-4545-91c2-45a63dce56eb.png)
+
+![Screenshot (44)](https://user-images.githubusercontent.com/124737955/233502342-c3fadd87-2e6b-4688-8361-cfa090ee8099.png)
 
 ## Credits
 
