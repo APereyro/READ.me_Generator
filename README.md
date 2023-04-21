@@ -35,6 +35,9 @@ then fill out prompts to create your own READ.me
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/124737955/233502342-c3fadd87-2e6b-4688-8361-cfa090ee8099.png)
 
+https://drive.google.com/file/d/1oEA9z8ZWoOAcszdZ5yGDTLT4v8i162YF/view
+           ----------Walkthrough Video------------
+
 ## Credits
 
 I'd like to thank my Instructor and TA's for all of their help on this project.
